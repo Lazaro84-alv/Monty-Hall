@@ -1,8 +1,6 @@
 <h1 align="center">Monty Hall</h1>
 <p align="center"><i>Repository for versioning and project documentation used during the Monty Hall.</i></p>
 
-![added-statistics-to-structure](https://raw.githubusercontent.com/balta-io/blog/main/documentacao-com-github/images/added-statistics-to-structure.jpg)
-
 ##  About this project
 
 This is a repository used to present the code of the Monty Hall project, developed in the Next.js and React course - Complete Course - Learn with Projects - Udemy.
