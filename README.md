@@ -7,8 +7,11 @@ This is a repository used to present the code of the Monty Hall project, develop
 
 
 ### Technologies
- - React https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg
- - Next.js https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg
+
+ - React ![icons8-reagir-16](https://user-images.githubusercontent.com/75143575/209590676-348be3ad-41e9-4ee1-8282-0aa6b6a647af.png)
+ - 
+ - Next.js ![Nextjs-logo](https://user-images.githubusercontent.com/75143575/209590685-f5307390-f3b7-4b96-859a-0997c9d8b7f3.svg)
+
  - Typescript ![icons8-typescript-48](https://user-images.githubusercontent.com/75143575/209590533-d894afd1-6d7f-4fa7-8f66-2069e64656f6.png)
 
 
