@@ -1,3 +1,21 @@
+<h1 align="center">Monty Hall</h1>
+<p align="center"><i>Repository for versioning and project documentation used during the Monty Hall.</i></p>
+
+![added-statistics-to-structure](https://raw.githubusercontent.com/balta-io/blog/main/documentacao-com-github/images/added-statistics-to-structure.jpg)
+
+##  About this project
+
+This is a repository used to present the code of the Monty Hall project, developed in the Next.js and React course - Complete Course - Learn with Projects - Udemy.
+
+
+### Technologies
+<p display="inline-block">
+  <img width="48" src="![next-js](https://user-images.githubusercontent.com/75143575/209590024-0d5d6b7a-a8e7-485b-9779-2dad3e1537cf.svg)"
+ alt="nextjs-logo"/>
+  <img width="48" src="![icons8-reagir-16](https://user-images.githubusercontent.com/75143575/209590066-b58d3ada-a352-4944-98c4-07c84297b352.png)" alt="react-logo"/>
+  <img width="48" src="![icons8-typescript-48](https://user-images.githubusercontent.com/75143575/209590124-641c1308-5071-4016-9082-83f911fe624c.png)" alt="typescript-logo"/>
+</p>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
