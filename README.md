@@ -7,12 +7,9 @@ This is a repository used to present the code of the Monty Hall project, develop
 
 
 ### Technologies
-<p display="inline-block">
-  <img width="48" src="![next-js](https://user-images.githubusercontent.com/75143575/209590024-0d5d6b7a-a8e7-485b-9779-2dad3e1537cf.svg)"
- alt="nextjs-logo"/>
-  <img width="48" src="![icons8-reagir-16](https://user-images.githubusercontent.com/75143575/209590066-b58d3ada-a352-4944-98c4-07c84297b352.png)" alt="react-logo"/>
-  <img width="48" src="![icons8-typescript-48](https://user-images.githubusercontent.com/75143575/209590124-641c1308-5071-4016-9082-83f911fe624c.png)" alt="typescript-logo"/>
-</p>
+ - React
+ - Next.js
+ - Typescript
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
